@@ -1,1 +1,1 @@
-# Codechef-solutions-of-self-learning
+# Codechef-solutions
